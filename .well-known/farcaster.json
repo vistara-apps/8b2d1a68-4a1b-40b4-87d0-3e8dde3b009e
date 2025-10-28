@@ -1,0 +1,22 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJtb25hZC12aWJlLXRyYWRlci5jb20ifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Monad Vibe Trader",
+    "homeUrl": "https://monad-vibe-trader.com",
+    "iconUrl": "https://monad-vibe-trader.com/icon.png",
+    "splashImageUrl": "https://monad-vibe-trader.com/splash.png",
+    "splashBackgroundColor": "#0f1419",
+    "webhookUrl": "https://monad-vibe-trader.com/api/webhook",
+    "subtitle": "AI-Powered Sentiment Trading",
+    "description": "Automate crypto trading on Astar with AI agents influenced by real-time market sentiment, secured by Monad.",
+    "primaryCategory": "finance",
+    "tags": ["trading", "defi", "ai", "monad", "astar"],
+    "heroImageUrl": "https://monad-vibe-trader.com/hero.png",
+    "tagline": "Trade smarter with AI sentiment analysis"
+  }
+}
