@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Monad Multi Agent Vibe Trader",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app",
+    "imageUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app/image.png",
+    "splashImageUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Monad Multi Agent Vibe Trader is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://monad-multi-agent-vibe-trader-9qts.vercel.app/screenshot1.png",
+      "https://monad-multi-agent-vibe-trader-9qts.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app/hero.png",
+    "tagline": "Monad Multi Agent Vibe Trader",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Monad Multi Agent Vibe Trader",
+    "ogDescription": "Monad Multi Agent Vibe Trader is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://monad-multi-agent-vibe-trader-9qts.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Monad%20Multi%20Agent%20Vibe%20Trader+at+https%3A%2F%2Fmonad-multi-agent-vibe-trader-9qts.vercel.app"
+  }
+}

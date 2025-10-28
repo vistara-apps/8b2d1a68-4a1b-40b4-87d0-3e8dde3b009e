@@ -1,0 +1,14 @@
+{
+  "name": "Monad Multi Agent Vibe Trader",
+  "description": "Monad Multi Agent Vibe Trader is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://monad-multi-agent-vibe-trader-9qts.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Monad Multi Agent Vibe Trader",
+      "description": "Monad Multi Agent Vibe Trader is a Base Mini App built with Zara.",
+      "url": "https://monad-multi-agent-vibe-trader-9qts.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
